@@ -1,6 +1,7 @@
 {
     "name": "laravel/laravel",
     "type": "project",
+    "homepage": "https://tongstv.github.io/dusk2",
     "description": "The Laravel Framework.",
     "keywords": [
         "framework",
